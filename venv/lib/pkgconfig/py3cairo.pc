@@ -1,0 +1,8 @@
+prefix=/home/aelliixx/Desktop/repos/Database-Tech-Assignment-2/venv
+
+Name: Pycairo
+Description: Python 3 bindings for cairo
+Version: 1.16.2
+Requires: cairo
+Cflags: -I${prefix}/include/pycairo
+Libs:
